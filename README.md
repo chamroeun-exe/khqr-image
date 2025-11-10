@@ -399,7 +399,6 @@ echo "QR image saved to khqr_code.png\n";
 Result QR code
 ----------------------------------------------------------------
 <!-- Inline images: use HTML <img> so we can control sizing and ensure side-by-side layout -->
-```html
 <p>
   <img src="assets/khqr_khr.png" alt="KHQR KHR" style="display:inline-block; width:360px; max-width:48%; margin-right:12px;" />
   <img src="assets/khqr_usd.png" alt="KHQR USD" style="display:inline-block; width:360px; max-width:48%;" />
@@ -420,7 +419,6 @@ Result QR code
       cursor: pointer;
     ">
 </form>
-```
 
 ## Testing
 
