@@ -1,5 +1,5 @@
 {
-    "name": "chamroeuntam/bakong-khqr-image",
+    "name": "chamroeun-exe/khqr-image",
     "description": "A pure PHP implementation of the Bakong KHQR Having Image Support",
     "type": "library",
     "keywords": [
@@ -15,12 +15,12 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/tamchamroeun/bakong-khqr-image/issues"
+        "issues": "https://github.com/tamchamroeun/khqr-image/issues"
     },
     "funding": [
         {
             "type": "github",
-            "url": "https://www.github.com/sponsors/tamchamroeun"
+            "url": "https://www.github.com/sponsors/chamroeun-exe"
         }
     ],
     "require": {
