@@ -400,8 +400,8 @@ Result QR code
 ----------------------------------------------------------------
 <!-- Inline images: use HTML <img> so we can control sizing and ensure side-by-side layout -->
 <p>
-  <img src="assets/khqr_khr.png" alt="KHQR KHR" style="display:inline-block; width:360px; max-width:48%; margin-right:12px;" />
-  <img src="assets/khqr_usd.png" alt="KHQR USD" style="display:inline-block; width:360px; max-width:48%;" />
+  <img src="../assets/khqr_khr.png" alt="KHQR KHR" style="display:inline-block; width:360px; max-width:48%; margin-right:12px;" />
+  <img src="../assets/khqr_usd.png" alt="KHQR USD" style="display:inline-block; width:360px; max-width:48%;" />
 </p>
 <form action="https://pay.ababank.com/oRF8/2sefrzlj" method="post">
   <input 
