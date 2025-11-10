@@ -1,0 +1,51 @@
+{
+    "name": "chamroeuntam/bakong-khqr-image",
+    "description": "A pure PHP implementation of the Bakong KHQR Having Image Support",
+    "type": "library",
+    "keywords": [
+        "bakong",
+        "khqr"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chamroeun Tam",
+            "email": "chamroeuntam@gmail.com",
+            "role": "Student"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/tamchamroeun/bakong-khqr-image/issues"
+    },
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://www.github.com/sponsors/tamchamroeun"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "endroid/qr-code": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "KHQR\\": "vendor/bakong-khqr-image/src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "KHQR\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        },
+        "optimize-autoloader": true,
+        "sort-packages": true,
+        "classmap-authoritative": true,
+        "process-timeout": 900
+    }
+}
